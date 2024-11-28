@@ -30,4 +30,4 @@ Environment: Kaggle
 
 Accuracy: 87
 
-                                                                                   #### -by Gaurav Singh
+                                                                                   -by Gaurav Singh
