@@ -1,1 +1,1 @@
-# Cassava-Leaf-Disease-Detection---Pytorch-Image-Classification
+# Cassava Leaf Disease Detection - Image Classification
