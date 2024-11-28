@@ -29,3 +29,5 @@ Environment: Kaggle
 - Resnet-152 Network
 
 Accuracy: 87
+
+                                                                                   #### -by Gaurav Singh
