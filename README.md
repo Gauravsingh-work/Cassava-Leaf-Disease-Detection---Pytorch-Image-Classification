@@ -24,5 +24,6 @@ Environment: Kaggle
 - pytorch
   
 # Neural Network
-Resnet-152 Network
+- Resnet-152 Network
+
 Accuracy: 87
