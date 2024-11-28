@@ -22,7 +22,7 @@ Environment: Kaggle
 - seaborn
 - scikit-learn
 - pytorch
-- 
+  
 # Neural Network
 Resnet-152 Network
 Accuracy: 87
