@@ -16,12 +16,13 @@ Download link: https://www.kaggle.com/c/cassava-leaf-disease-classification/data
 Environment: Kaggle
 
 # Libraries
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-pytorch
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- pytorch
+- 
 # Neural Network
 Resnet-152 Network
 Accuracy: 87
